@@ -9,3 +9,10 @@ Project 2 (Topics 02 & 09). Tích phân hai lớp trên miền hình chữ nhậ
 
 # Report
 [Tích phân hai lớp trên miền hình chữ nhật](https://www.overleaf.com/read/cmfxmbmcdvgc#c734fe)
+
+## Phụ lục
+- file `image_blur_stimulation.py` dùng cho ứng dụng làm mờ ảnh
+- file `light_intensity_stimulation.py` dùng cho ứng dụng tăng cường độ sáng
+- file `morpho_surface.py`: mô phỏng hàm `z = 4 - x^2 -y^2`, kết quả `surface_animation.gif`
+- file `surface_scan_animation`: hiệu ứng quét diện tích bề mặt hàm`z = 4 - x^2 -y^2`, kết quả `surface_scan_animation.gif`
+- file `volume_scan_animation`: hiệu ứng quét thể tích hàm `z = 4 - x^2 -y^2`, kết quả `volume_scan_animation.gif`
