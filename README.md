@@ -6,3 +6,6 @@ Project 2 (Topics 02 & 09). Tích phân hai lớp trên miền hình chữ nhậ
  lớp. Minh họa hình học trực quan bằng các phần mềm tính toán khoa học.
  2. Thiết kế và tạo một Video mô phỏng khái niệm tích phân hai lớp trên miền hình chữ nhật. Tham khảo
 [ link 1](https://www.youtube.com/watch?v=gifQWtTWqEY) hoặc [link 2](https://www.youtube.com/watch?v=DTVk8oa2f8s)
+
+# Report
+[Tích phân hai lớp trên miền hình chữ nhật](https://www.overleaf.com/read/cmfxmbmcdvgc#c734fe)
